@@ -6,3 +6,4 @@ GoDigit Smart Contract
 * Name : GoDigit
 * Ticker : GIT
 * Decimals : 18
+* Total Supply: 50,000,000 GIT
