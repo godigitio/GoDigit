@@ -1,0 +1,2 @@
+# GoDigit
+GoDigit Smart Contract
