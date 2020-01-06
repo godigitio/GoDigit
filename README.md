@@ -1,6 +1,6 @@
 # GoDigit
 GoDigit Smart Contract
-<p align="center"><img src="https://www.godigit.io/wp-content/uploads/2018/09/logo-150x150.png"></p>
+<p align="center"><img src="https://godigitio.github.io/GoDigit/images/logo-256.png"></p>
 
 * Standard : ERC20
 * Name : GoDigit
