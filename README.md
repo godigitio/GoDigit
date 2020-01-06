@@ -13,6 +13,10 @@
 <coingecko-coin-price-chart-widget currency="usd" coin-id="godigit" locale="en" height="300"></coingecko-coin-price-chart-widget>
 </p>
 
+## Exchange
+[STEX - GIT/BTC](https://app.stex.com/en/basic-trade/pair/BTC/GIT/240)
+[STEX - GIT/USDT](https://app.stex.com/en/basic-trade/pair/USDT/GIT/240)
+
 ## Community
 * [BitcoinTalk](https://bitcointalk.org/index.php?topic=4963107.0)
 * [Medium](https://medium.com/@GoDigitIO/)
