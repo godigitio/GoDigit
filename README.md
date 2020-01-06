@@ -1,5 +1,5 @@
 # GoDigit
-GoDigit Smart Contract
+[GoDigit Smart Contract](https://etherscan.io/token/0x1d0582fa759e4b9beab4f6f82cc539ac62c49250)
 <p align="center"><img src="https://godigitio.github.io/GoDigit/images/logo-256.png"></p>
 
 * Standard : ERC20
