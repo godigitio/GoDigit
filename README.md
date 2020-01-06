@@ -8,6 +8,11 @@ GoDigit Smart Contract
 * Decimals : 18
 * Total Supply: 50,000,000 GIT
 
+<p align="center">
+<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
+<coingecko-coin-price-chart-widget currency="usd" coin-id="godigit" locale="en" height="300"></coingecko-coin-price-chart-widget>
+</p>
+
 ## Community
 * BitcoinTalk : https://bitcointalk.org/index.php?topic=4963107.0
 * Medium : https://medium.com/@GoDigitIO/
